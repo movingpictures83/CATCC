@@ -1,0 +1,2 @@
+Prefix plugins/CATCC/example/
+Plugin CATCC inputfile HAR outputfile none

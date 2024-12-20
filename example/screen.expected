@@ -1,0 +1,196 @@
+***********************************************************************************
+*                                                                                 *
+*  PPPPPPPPPPPP    L               U           U   M           M         A        *
+*  P           P   L               U           U   MM         MM        A A       *
+*  P           P   L               U           U   M M       M M       A   A      *
+*  P           P   L               U           U   M  M     M  M      A     A     *
+*  P           P   L               U           U   M   M   M   M     A       A    *
+*  PPPPPPPPPPPP    L               U           U   M    M M    M    A         A   *
+*  P               L               U           U   M     M     M   AAAAAAAAAAAAA  *
+*  P               L               U           U   M           M   A           A  *
+*  P               L               U           U   M           M   A           A  *
+*  P               LLLLLLLLLLLLL    UUUUUUUUUUU    M           M   A           A  *
+*                                                                                 *
+*            [Plu]gin-based [M]icrobiome [A]nalysis (formerly MiAMi)              *
+* (C) 2016, 2018 Bioinformatics Research Group, Florida International University  *
+*    Under MIT License From Open Source Initiative (OSI), All Rights Reserved.    *
+*                                                                                 *
+*    Any professionally published work using PluMA should cite the following:     *
+*                        T. Cickovski and G. Narasimhan.                          *
+*                Constructing Lightweight and Flexible Pipelines                  *
+*                 Using Plugin-Based Microbiome Analysis (PluMA)                  *
+*                     Bioinformatics 34(17):2881-2888, 2018                       *
+*                                                                                 *
+***********************************************************************************
+[PluMA] Running Plugin: CATCC
+=============================================
+Dataset: HAR
+Mode:    self_supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 13.6481         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 2
+Train Loss     : 12.9597         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 3
+Train Loss     : 12.5172         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 4
+Train Loss     : 12.3958         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 5
+Train Loss     : 12.2553         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 6
+Train Loss     : 12.2044         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 7
+Train Loss     : 12.1808         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 8
+Train Loss     : 12.0754         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 9
+Train Loss     : 12.0239         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 10
+Train Loss     : 11.9208         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 11
+Train Loss     : 11.7988         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 12
+Train Loss     : 11.8755         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 13
+Train Loss     : 11.7889         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 14
+Train Loss     : 11.8621         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 15
+Train Loss     : 11.7399         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 16
+Train Loss     : 11.7442         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 17
+Train Loss     : 11.6468         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 18
+Train Loss     : 11.6901         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 19
+Train Loss     : 11.6457         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 20
+Train Loss     : 11.6709         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 21
+Train Loss     : 11.6202         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 22
+Train Loss     : 11.6738         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 23
+Train Loss     : 11.5483         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 24
+Train Loss     : 11.5694         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 25
+Train Loss     : 11.5241         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 26
+Train Loss     : 11.4833         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 27
+Train Loss     : 11.4891         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 28
+Train Loss     : 11.4975         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 29
+Train Loss     : 11.4130         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 30
+Train Loss     : 11.4101         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 31
+Train Loss     : 11.3782         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 32
+Train Loss     : 11.3686         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 33
+Train Loss     : 11.3748         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 34
+Train Loss     : 11.3200         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 35
+Train Loss     : 11.3726         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 36
+Train Loss     : 11.4145         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 37
+Train Loss     : 11.3434         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 38
+Train Loss     : 11.3518         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 39
+Train Loss     : 11.3676         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+Epoch : 40
+Train Loss     : 11.3301         |      Train Accuracy     : 0.0000
+Valid Loss     : 0.0000  |      Valid Accuracy     : 0.0000
+
+################## Training is Done! #########################
+Training time is : 0:00:55.220128
+
+
